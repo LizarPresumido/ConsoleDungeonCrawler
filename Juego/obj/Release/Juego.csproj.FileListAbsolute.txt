@@ -1,0 +1,6 @@
+C:\Users\Usuario\Desktop\Juego\bin\Release\Juego.exe.config
+C:\Users\Usuario\Desktop\Juego\bin\Release\Juego.exe
+C:\Users\Usuario\Desktop\Juego\bin\Release\Juego.pdb
+C:\Users\Usuario\Desktop\Juego\obj\Release\Juego.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Juego\obj\Release\Juego.exe
+C:\Users\Usuario\Desktop\Juego\obj\Release\Juego.pdb

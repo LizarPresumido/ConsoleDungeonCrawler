@@ -1,0 +1,9 @@
+Resultado: 
+Victoria Heroica!
+
+Estadisticas:
+Nivel: 1
+Daño: 3
+Defensa: 3
+Experiencia: 0
+Dinero: 0
