@@ -1,1 +1,1 @@
-# ConsoleDungeonCrawler es un pequeño juego de consola de comandos de un RPG dungeon crawler
+# ConsoleDungeonCrawler is a small command console game of an RPG dungeon crawler
